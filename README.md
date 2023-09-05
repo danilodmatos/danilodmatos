@@ -1,8 +1,8 @@
 <div style="background-color: #F2F2F2; padding: 50px;">
   <h1 style="text-align: center;">Olá! Eu sou o Danilo Matos</h1>
-  <p style="text-align: center;">🔭 Hoje trabalho com Desenvolvimento Back-End na Otimizzei // e lidero a equipe de UI/UX na SCS (Smart Creative Solutions)</p>
-  <p style="text-align: center;">🌱 Estudando JavaScript e PHP</p>
-  <p style="text-align: center;">🏫 2º periodo de Analise e desenvolvimento de sistemas - Facimp Wyden</p>
+  <p style="text-align: center;">🔭 Hoje trabalho com Desenvolvimento Front End na Motoca Systems // e lidero a equipe de Marketing na SCS (Smart Creative Solutions)</p>
+  <p style="text-align: center;">🌱 Estudando JavaScript, React e JAVA</p>
+  <p style="text-align: center;">🏫 3º periodo de Analise e desenvolvimento de sistemas - Facimp Wyden</p>
   <div style="display: flex; justify-content: space-between; margin-top: 50px;">
     <div>
       <h2>Linguagens mais utilizadas</h2>
