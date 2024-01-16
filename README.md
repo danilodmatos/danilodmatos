@@ -1,7 +1,7 @@
 <div style="background-color: #F2F2F2; padding: 50px;">
   <h1 style="text-align: center;">Olá! Eu sou o Danilo Matos</h1>
   <p style="text-align: center;">🔭 Aluno no Projeto ONE (Oracle Next Education) </p>
-  <p style="text-align: center;">🌱 Estudando JavaScript, React</p>
+  <p style="text-align: center;">👨🏻‍💻 Estudando JavaScript, React</p>
   <p style="text-align: center;">🏫 3º periodo de Analise e desenvolvimento de sistemas - Facimp Wyden</p>
   <div style="display: flex; justify-content: space-between; margin-top: 50px;">
     <div>
