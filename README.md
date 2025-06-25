@@ -24,7 +24,7 @@
 
  ##
 
-<h3 align="right">Connect with me!</h3>
+<h3 align="left">Connect with me!</h3>
 
 <p align="left">
   <a href="https://www.instagram.com/danilodmatos" target="_blank">
