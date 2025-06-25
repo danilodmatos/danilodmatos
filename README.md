@@ -23,12 +23,14 @@
 </div>
 
  ##
- 
-<div> 
-  <a href="https://z-p3.www.instagram.com/danilodmatos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://outlook.live.com/mail/0/" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danilo-matos-7658b5252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
+ <h3 align="left">Connect With me!</h3>
+[![Instagram](https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danilodmatos)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-matos-7658b5252)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniloo.matoss18@gmail.com)
+
+
+
 
 #
 
