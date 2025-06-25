@@ -27,19 +27,16 @@
 <h3 align="center">Connect with me!</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/danilodmatos">
+  <a href="https://www.instagram.com/danilodmatos" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/danilo-matos-7658b5252">
+  <a href="https://www.linkedin.com/in/danilo-matos-7658b5252" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:daniloo.matoss18@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
-
-
 
 
 #
