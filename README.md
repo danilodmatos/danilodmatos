@@ -24,9 +24,9 @@
 
  ##
 
-<h3 align="center">Connect with me!</h3>
+<h3 align="right">Connect with me!</h3>
 
-<p align="center">
+<p align="right">
   <a href="https://www.instagram.com/danilodmatos" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -37,7 +37,6 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
 
 #
 
