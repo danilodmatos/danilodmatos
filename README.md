@@ -36,7 +36,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando evoluir em proje
 
 ## 🌐 Conecte-se comigo
 
-<div align="right">
+<div align="left">
   <a href="https://www.instagram.com/danilodmatos" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
