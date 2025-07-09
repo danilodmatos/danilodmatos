@@ -1,7 +1,7 @@
 <!-- Banner ou apresentação -->
 <div align="center" style="background-color: #F2F2F2; padding: 30px 0;">
   <h1>Olá! Eu sou o <strong>Danilo Matos</strong> 👋</h1>
-  <p>🥑 Aluno no <strong>DevClub</strong></p
+  <p>🥑 Aluno no <strong>DevClub</strong></p>
   <p>👨🏻‍💻 Estudando <strong>JavaScript & React</strong></p>
   <p>🏫 1º Período de Análise e Desenvolvimento de Sistemas — Faculdade Dunamis</p>
 </div>
@@ -10,7 +10,8 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre buscando evoluir em projetos reais, com foco em soluções criativas e funcionais. Atualmente estudo **JavaScript**, **React** e tecnologias de frontend, com dedicação total à construção de sistemas práticos.
+Sou um desenvolvedor apaixonado por tecnologia, sempre buscando evoluir em projetos reais, com foco em soluções criativas e funcionais.  
+Atualmente estudo **JavaScript**, **React** e tecnologias de frontend, com dedicação total à construção de sistemas práticos.
 
 ---
 
@@ -20,7 +21,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando evoluir em proje
   <img align="center" alt="Danilo-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Danilo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Danilo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Danilo-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)">
+  <img align="center" alt="Danilo-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
 
 ---
@@ -38,13 +39,13 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando evoluir em proje
 
 <div align="left">
   <a href="https://www.instagram.com/danilodmatos" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/danilo-matos-7658b5252" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:daniloo.matoss18@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
