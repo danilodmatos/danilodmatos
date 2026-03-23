@@ -1,9 +1,8 @@
 <!-- Banner ou apresentação -->
 <div align="center" style="background-color: #F2F2F2; padding: 30px 0;">
   <h1>Olá! Eu sou o <strong>Danilo Matos</strong> 👋</h1>
-  <p>🥑 Aluno no <strong>DevClub</strong></p>
-  <p>👨🏻‍💻 Estudando <strong>JavaScript & React</strong></p>
-  <p>🏫 1º Período de Análise e Desenvolvimento de Sistemas — Faculdade Dunamis</p>
+  <p>👨🏻‍💻 Estudando <strong>IA e Automação Digital</strong></p>
+  <p>🏫 1º Período de IA e Automação Digital — Unifecaf + Rocketseat</p>
 </div>
 
 ---
