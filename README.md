@@ -9,8 +9,14 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre buscando evoluir em projetos reais, com foco em soluções criativas e funcionais.  
-Atualmente estudo **JavaScript**, **React** e tecnologias de frontend, com dedicação total à construção de sistemas práticos.
+Profissional em formação em IA e Automação Digital, com experiência em
+desenvolvimento front-end, back-end e liderança de projetos UI/UX. Possuo
+perfil analítico, com foco em transformar dados em decisões e melhorar
+processos.
+Experiência com atendimento e ensino, o que fortalece minha comunicação e
+visão de jornada do cliente. Interesse em análise de dados, automação e uso de
+IA para ganho de eficiência operacional.
+
 
 ---
 
