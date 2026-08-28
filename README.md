@@ -1,7 +1,7 @@
 <!-- Banner ou apresentação -->
 <div align="center" style="background-color: #F2F2F2; padding: 30px 0;">
   <h1>Olá! Eu sou o <strong>Danilo Matos</strong> 👋</h1>
-  <p>👨🏻‍💻 Estudando <strong>IA e Automação Digital</strong></p>
+  <p>👨🏻‍💻 <strong>Análise de dados</strong></p>
   <p>🏫 1º Período de IA e Automação Digital — Unifecaf + Rocketseat</p>
 </div>
 
