@@ -9,25 +9,32 @@
 
 ## 🚀 Sobre mim
 
-Profissional em formação em IA e Automação Digital, com experiência em
-desenvolvimento front-end, back-end e liderança de projetos UI/UX. Possuo
-perfil analítico, com foco em transformar dados em decisões e melhorar
-processos.
-Experiência com atendimento e ensino, o que fortalece minha comunicação e
-visão de jornada do cliente. Interesse em análise de dados, automação e uso de
-IA para ganho de eficiência operacional.
+Profissional em formação em Inteligência Artificial e Automação Digital, com foco em Análise de Dados e desenvolvimento de soluções orientadas por dados. Possuo conhecimentos em SQL, Python, Power BI, Excel e visualização de dados, com foco em transformar dados em informações relevantes para apoiar decisões e otimizar processos. Tenho perfil analítico, organizado e orientado à resolução de problemas, além de experiência com tecnologia e desenvolvimento de projetos. Atualmente, direciono minha carreira para a área de Dados, buscando aplicar conhecimentos técnicos e desenvolver soluções que gerem eficiência e valor para o negócio.
 
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 📊 Dados & BI
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
+
+### 📈 Ferramentas
+
+- Power BI
+- Excel
+- Google Sheets
+- Git/GitHub
+
+### 🐍 Python para Dados
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 
 ---
