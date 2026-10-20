@@ -23,7 +23,7 @@ Minha experiência anterior em desenvolvimento **front-end e back-end** me deu b
 
 - 🔭 **Agora:** resolvendo desafios de SQL no **Databricks** (JOINs, agregações, CTEs e window functions)
 - 🌱 **Aprendendo:** modelagem de dados, Delta Lake e boas práticas de Analytics Engineering
-- 📍 Imperatriz, Maranhão
+- 📍 Brasil
 
 ---
 
