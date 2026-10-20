@@ -1,73 +1,84 @@
-<!-- Banner ou apresentação -->
-<div align="center" style="background-color: #F2F2F2; padding: 30px 0;">
-  <h1>Olá! Eu sou o <strong>Danilo Matos</strong> 👋</h1>
-  <p>👨🏻‍💻 <strong>Análise de dados</strong></p>
-  <p>🏫 1º Período de IA e Automação Digital — Unifecaf + Rocketseat</p>
+<div align="center">
+
+# Danilo Matos
+
+### Analista de Dados · Analytics Engineering em formação
+
+Transformo dados brutos em tabelas confiáveis e em respostas para o negócio.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-matos-7658b5252)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniloo.matoss18@gmail.com)
+
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Profissional em formação em Inteligência Artificial e Automação Digital, com foco em Análise de Dados e desenvolvimento de soluções orientadas por dados. Possuo conhecimentos em SQL, Python, Power BI, Excel e visualização de dados, com foco em transformar dados em informações relevantes para apoiar decisões e otimizar processos. Tenho perfil analítico, organizado e orientado à resolução de problemas, além de experiência com tecnologia e desenvolvimento de projetos. Atualmente, direciono minha carreira para a área de Dados, buscando aplicar conhecimentos técnicos e desenvolver soluções que gerem eficiência e valor para o negócio.
+Estudante de **Inteligência Artificial e Automação Digital** (UniFecaf + Rocketseat), com foco em **Análise de Dados** e **Analytics Engineering**.
 
+Gosto de cuidar do caminho inteiro do dado: entender a pergunta do negócio, modelar e consultar as tabelas com SQL, validar se os números fazem sentido e entregar o resultado em um formato que ajude a decidir.
 
----
+Minha experiência anterior em desenvolvimento **front-end e back-end** me deu base em lógica, APIs e boas práticas de código, que hoje aplico ao trabalho com dados.
 
-## 📊 Dados & BI
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
-
-### 📈 Ferramentas
-
-- Power BI
-- Excel
-- Google Sheets
-- Git/GitHub
-
-### 🐍 Python para Dados
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
+- 🔭 **Agora:** resolvendo desafios de SQL no **Databricks** (JOINs, agregações, CTEs e window functions)
+- 🌱 **Aprendendo:** modelagem de dados, Delta Lake e boas práticas de Analytics Engineering
+- 📍 Imperatriz, Maranhão
 
 ---
 
-## 📊 Estatísticas GitHub
+## Stack
+
+**Dados e SQL**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square&logo=delta&logoColor=white)
+
+**Python para dados**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+**BI e planilhas**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## Projetos em destaque
+
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| [**Desafios SQL · FarmaViva**](LINK_DO_REPOSITORIO) | 10 perguntas de negócio de uma rede fictícia de farmácias: faturamento por loja, categorias, clientes inativos, ticket médio por canal e crescimento mês a mês | SQL, Databricks, Delta Lake |
+| [**Projeto Lighthouse**](LINK_DO_REPOSITORIO) | Projeto técnico de dados desenvolvido no processo seletivo do Programa Lighthouse (Indicium) | DESCREVA_A_STACK |
+
+---
+
+## Como eu trabalho com dados
+
+1. **Entender a pergunta:** qual decisão esse número vai apoiar?
+2. **Conhecer a base:** granularidade de cada tabela e as chaves que ligam umas às outras
+3. **Construir a consulta:** SQL legível, com apelidos claros e uma etapa por vez
+4. **Validar:** contagem de linhas, totais de controle e checagem de JOINs que duplicam valores
+5. **Comunicar:** resultado claro, em tabela, gráfico ou dashboard
+
+---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilodmatos&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilodmatos&layout=compact&theme=radical" alt="Top Langs"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=danilodmatos&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilodmatos&layout=compact&hide_border=true&theme=transparent" alt="Top Langs"/>
+
 </div>
-
----
-
-## 🌐 Conecte-se comigo
-
-<div align="left">
-  <a href="https://www.instagram.com/danilodmatos" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/danilo-matos-7658b5252" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:daniloo.matoss18@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
----
-
-## 🐍 Snake Contribution
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danilodmatos/danilodmatos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danilodmatos/danilodmatos/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/danilodmatos/danilodmatos/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</picture>
